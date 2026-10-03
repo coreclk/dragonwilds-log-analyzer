@@ -1,4 +1,4 @@
-# Dragonwilds Log Diagnostics
+﻿# Dragonwilds Log Diagnostics
 
 In-browser log diagnostic and calibration tool for **RuneScape: Dragonwilds**.
 
